@@ -109,10 +109,4 @@ Saves the prediction results as a raster image.
   - `reference_image_path` (str): Path to the reference image for geotransform and projection information.
 - **Returns:** None
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
